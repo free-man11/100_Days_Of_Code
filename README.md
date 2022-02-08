@@ -3,5 +3,5 @@
 
 
 
-<p align="middle"> <img src="https://pythoncoursesonline.com/wp-content/uploads/2020/11/python-pro-bootcamp.jpg" alt="aws" width="400" height="400"/> 
+<p align="middle"> <img src="https://pythoncoursesonline.com/wp-content/uploads/2020/11/python-pro-bootcamp.jpg" alt="aws" width="200" height="200"/> 
 
