@@ -25,3 +25,26 @@ print(3.22)
 
 True
 False
+
+
+
+
+
+
+# EXERCISE
+
+# Write a program that adds the digits ina 2 digit number .eg. if the input was 35,then the output should be 3+5=8
+
+
+two_digit_number = input("Type a two digit number\n")
+
+# Check the data type of two_digit_number
+#print(type(two_digit_number))
+
+# Get the first and second digits using subscripting then convert string to int
+first_digit = two_digit_number[0]
+second_digit = two_digit_number[1]
+
+# Add the two digits together
+result = int(first_digit) + int(second_digit)
+print(result)
