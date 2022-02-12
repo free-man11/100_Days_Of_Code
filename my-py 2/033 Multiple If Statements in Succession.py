@@ -30,5 +30,5 @@ if height >= 120:
         bill += 3
         print(f"Your final bill is {bill}$")
 
-else:s
+else:
   print("sorry you have to grow taller before you can ride")
