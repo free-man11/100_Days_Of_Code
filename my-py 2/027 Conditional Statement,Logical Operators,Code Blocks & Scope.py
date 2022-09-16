@@ -26,6 +26,3 @@ else:
 # !=  Not equal to
 
 # == (WE USE THIS WHEN THE PERSON'S HEIGHT IS EXACTLY EQUAL )
-
-
-h
